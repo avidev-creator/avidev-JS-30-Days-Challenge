@@ -5,13 +5,13 @@
 // Task 1
 
 for (let i = 0; i < 11; i++) {
-  //console.log(i);
+  console.log(i);
 }
 
 // Task 2
 
 for (let i = 1; i < 11; i++) {
-  //console.log(5 * i);
+  console.log(5 * i);
 }
 
 // Activity 2 - While Loop
@@ -24,14 +24,14 @@ while (i <= 10) {
   sum += i;
   i++;
 }
-//console.log(sum);
+console.log(sum);
 
 // Task 4
 
 let j = 10;
 
 while (j >= 1) {
-  // console.log(j);
+  console.log(j);
   j--;
 }
 
@@ -42,7 +42,7 @@ while (j >= 1) {
 let item = 1;
 
 do {
-  //console.log(item);
+  console.log(item);
   item++;
 } while (item <= 5);
 
